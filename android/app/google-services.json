@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "174772527195",
+    "firebase_url": "https://quizzer-ba5c5.firebaseio.com",
+    "project_id": "quizzer-ba5c5",
+    "storage_bucket": "quizzer-ba5c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174772527195:android:50ef7153aee811b0511f7e",
+        "android_client_info": {
+          "package_name": "com.quizzer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174772527195-a1q0ehqe5o4m0s8pciuesk8pdeqv2c8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuq6RSqr1DAoEkwa3gmbQjFrXSJgZdZ5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174772527195-a1q0ehqe5o4m0s8pciuesk8pdeqv2c8c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "174772527195-i3eo6sgkg3elt6l7jarud4nouedda61k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "thallesmarchetti.com.Quizzer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
